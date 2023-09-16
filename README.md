@@ -1,4 +1,4 @@
 # New Project
 
 This project was created by local system
-Created by Shashwat Singh
+Created by Shashwat Singh.
